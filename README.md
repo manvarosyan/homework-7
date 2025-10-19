@@ -23,4 +23,4 @@ Enter the arrival time and burst time for process 4: 3 5
 ```
 
 ## Output Screenshots
-The output screenshots for both **FCFS** and **SJF** algorithms can be found in this repository.
+The output screenshot for both **FCFS** and **SJF** algorithms can be found in this repository.
